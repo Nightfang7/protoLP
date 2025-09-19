@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.build/
+.eggs/
+*.egg-info/
+.dist/
+venv/
+.env/
+.venv/
+.env*/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+logs/
+*.log
+
+# Outputs & results
+lizz_evaluation_results/
+*.pkl
+*.npz
+*.npy
+
+# Checkpoints & large binaries
+checkpoints/
+checkpoints.zip
+*.pth
+*.pt
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Cache
+.cache/
+pytest_cache/
+
+cifar/
+
+CUB/
+
+Lizz_data/
+
+Lizz_evaluation_results_old/
+Lizz_evaluation_results/
+
